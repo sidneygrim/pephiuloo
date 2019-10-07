@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://raijahfeev.onthemazewall.com/sitemap.xml
